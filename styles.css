@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 550px;
+    width: auto;
+    background-color: darksalmon;
+    font-family:cursive;
+    font-size: 25px;
+}
+.input-field input{
+    height: 40px;
+    width: 400px;
+}
+.box-outer{
+    height: 300px;
+}
